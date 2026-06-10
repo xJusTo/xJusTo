@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="banner.png" alt="xJusTo Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f2027,203a43,2c5364&height=250&section=header&text=Привет,%20я%20xJusTo!%20%F0%9F%91%8B&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20&%20Software%20Engineering%20Student&descAlignY=55&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B967FF&center=true&vCenter=true&width=850&lines=Building+scalable+backend+services;Passionate+about+C-Sharp+and+ASP.NET+Core;Open+to+new+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2CA5E0&center=true&vCenter=true&width=850&lines=Building+scalable+backend+services;Passionate+about+C-Sharp+and+ASP.NET+Core;Open+to+new+opportunities" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://t.me/xJusT0"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:iliapozhidaev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/xJusTo"><img src="https://komarev.com/ghpvc/?username=xJusTo&label=Profile+Views&color=B967FF&style=for-the-badge" alt="Profile Views" /></a>
+  <a href="https://github.com/xJusTo"><img src="https://komarev.com/ghpvc/?username=xJusTo&label=Profile+Views&color=2CA5E0&style=for-the-badge" alt="Profile Views" /></a>
 </p>
 
 <br/>
@@ -50,4 +50,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xJusTo&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f2027,203a43,2c5364&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>

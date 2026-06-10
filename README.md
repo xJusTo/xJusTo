@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B967FF&center=true&vCenter=true&width=600&lines=Building+scalable+backend+services;Passionate+about+C%23+and+ASP.NET+Core;Open+to+new+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B967FF&center=true&vCenter=true&width=850&lines=Building+scalable+backend+services;Passionate+about+C%23+and+ASP.NET+Core;Open+to+new+opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/xJusTo">
-    <img src="https://komarev.com/ghpvc/?username=xJusTo&label=Просмотры+профиля&color=B967FF&style=flat-square" alt="Просмотры профиля" />
+    <img src="https://komarev.com/ghpvc/?username=xJusTo&label=Profile+Views&color=B967FF&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
@@ -20,11 +20,9 @@
 
 <br/>
 
-<h3 align="center">🏆 Мои достижения GitHub</h3>
+<h3 align="center">🏆 Мои достижения</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xJusTo&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=xJusTo&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
 </p>
 
 <br/>
@@ -35,6 +33,7 @@
   <b>Backend & Databases</b><br>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,lua,mysql,postgres" alt="Backend" />
 </p>
+<br>
 <p align="center">
   <b>Frontend & Tools</b><br>
   <img src="https://skillicons.dev/icons?i=js,react,html,css,git,docker,vscode" alt="Frontend & Tools" />
@@ -42,26 +41,18 @@
 
 <br/>
 
-<h3 align="center">📈 Статистика активности</h3>
+<h3 align="center">📊 Статистика активности</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xJusTo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=xJusTo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xJusTo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
 
-<h3 align="center">🐍 Змейка коммитов</h3>
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xJusTo/xJusTo/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xJusTo/xJusTo/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xJusTo/xJusTo/output/dist/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xJusTo&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
+
+<br/>
 
 <h3 align="center">🌊 График активности за год</h3>
 

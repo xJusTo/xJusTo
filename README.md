@@ -1,69 +1,36 @@
-# Привет, я xJusTo! 👋
-
-<p align="center">
+<div align="center">
   <img src="banner.png" alt="xJusTo Banner" width="100%" />
-</p>
 
-<p align="center">
-  <strong>Студент КУБГТУ | Направление «Программная инженерия» | Backend-разработчик</strong>
-</p>
+  <br />
+  <br />
 
-<p align="center">
-  <a href="#-обо-мне">Обо мне</a> •
-  <a href="#-технологический-стек">Технологии</a> •
-  <a href="#-статистика">Статистика</a> •
-  <a href="#-контакты">Контакты</a>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B967FF&center=true&vCenter=true&width=600&lines=Backend+Developer;C%23+%26+ASP.NET+Core;Software+Engineering+Student" alt="Typing SVG" />
+</div>
 
----
+<br/>
 
-## 👨‍💻 Обо мне
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>👨‍💻 Обо мне</h3>
+      <p align="left">
+        🎓 <b>Обучение:</b> Студент КубГТУ, «Программная инженерия».<br><br>
+        ⚡ <b>Возраст:</b> 20 лет.<br><br>
+        🚀 <b>Фокус:</b> C# и ASP.NET Core бэкенд.<br><br>
+        📫 <b>Связь:</b> <a href="https://t.me/xJusT0">Telegram</a> | <a href="mailto:iliapozhidaev@gmail.com">Email</a>
+      </p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🛠️ Технологии</h3>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,python,lua,mysql,postgres&perline=4" alt="Skill Icons" />
+    </td>
+  </tr>
+</table>
 
-*   🎓 **Образование:** Студент **Кубанского государственного технологического университета (КубГТУ)** по направлению **«Программная инженерия»**.
-*   ⚡ **Возраст:** 20 лет.
-*   🚀 **Текущие приоритеты:** На данный момент активно развиваюсь в бэкенд-разработке, отдавая предпочтение языку **C#** и платформе **ASP.NET Core**.
-*   🧠 **Интересы:** Проектирование архитектуры веб-приложений, оптимизация запросов к базам данных и создание надёжных API.
+<br/>
 
----
-
-## 🛠 Технологический стек
-
-### Основные языки и технологии
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
-</p>
-
-### Дополнительные языки и базы данных
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
----
-
-## 📊 Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xJusTo&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xJusTo&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 📬 Контакты
-
-Если вы хотите обсудить проект, сотрудничество или просто пообщаться:
-
-<p align="left">
-  <a href="https://t.me/@xJusT0" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:iliapozhidaev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<h3 align="center">📊 Статистика</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xJusTo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xJusTo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>

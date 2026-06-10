@@ -1,21 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=B967FF&height=150&section=header&text=Привет,%20я%20xJusTo!%20%F0%9F%91%8B&fontSize=70&fontAlignY=40&desc=Backend%20Developer&descAlignY=75&descAlign=50" width="100%" alt="Header" />
+  <img src="banner.png" alt="xJusTo Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B967FF&center=true&vCenter=true&width=800&lines=Building+scalable+backend+services;Passionate+about+C-Sharp+and+ASP.NET+Core;Open+to+new+opportunities" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/xJusTo">
-    <img src="https://komarev.com/ghpvc/?username=xJusTo&label=Profile+Views&color=B967FF&style=flat-square" alt="Profile Views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B967FF&center=true&vCenter=true&width=850&lines=Building+scalable+backend+services;Passionate+about+C-Sharp+and+ASP.NET+Core;Open+to+new+opportunities" alt="Typing SVG" />
 </p>
 
 <br/>
 
 <p align="center">
-  🎓 <b>Обучение:</b> Студент КубГТУ, ПИ &nbsp;&nbsp;•&nbsp;&nbsp; ⚡ <b>Возраст:</b> 20 лет &nbsp;&nbsp;•&nbsp;&nbsp; 📫 <b>Связь:</b> <a href="https://t.me/xJusT0">Telegram</a> или <a href="mailto:iliapozhidaev@gmail.com">Email</a>
+  <img src="https://img.shields.io/badge/%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82_%D0%9A%D1%83%D0%B1%D0%93%D0%A2%D0%A3-161b22?style=for-the-badge&logo=book&logoColor=white" alt="Обучение" />
+  <img src="https://img.shields.io/badge/%D0%92%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82-20_%D0%BB%D0%B5%D1%82-161b22?style=for-the-badge&logo=clock&logoColor=white" alt="Возраст" />
+  <img src="https://img.shields.io/badge/%D0%A4%D0%BE%D0%BA%D1%83%D1%81-C%23_%2F_ASP.NET_Core-161b22?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Фокус" />
+</p>
+
+<p align="center">
+  <a href="https://t.me/xJusT0"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:iliapozhidaev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/xJusTo"><img src="https://komarev.com/ghpvc/?username=xJusTo&label=Profile+Views&color=B967FF&style=for-the-badge" alt="Profile Views" /></a>
 </p>
 
 <br/>
@@ -23,13 +25,10 @@
 <h3 align="center">🛠️ Технологический стек</h3>
 
 <p align="center">
-  <b>Backend & Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,lua,mysql,postgres" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,lua,mysql,postgres&theme=dark" alt="Backend" />
 </p>
-<br>
 <p align="center">
-  <b>Frontend & Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,git,docker,vscode" alt="Frontend & Tools" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,git,docker,vscode&theme=dark" alt="Frontend & Tools" />
 </p>
 
 <br/>
@@ -51,10 +50,4 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xJusTo&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>

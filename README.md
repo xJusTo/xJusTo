@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=250&section=header&text=Привет,%20я%20xJusTo!%20%F0%9F%91%8B&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20&%20Software%20Engineering%20Student&descAlignY=55&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=B967FF&height=150&section=header&text=Привет,%20я%20xJusTo!%20%F0%9F%91%8B&fontSize=70&fontAlignY=40&desc=Backend%20Developer&descAlignY=75&descAlign=50" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B967FF&center=true&vCenter=true&width=850&lines=Building+scalable+backend+services;Passionate+about+C%23+and+ASP.NET+Core;Open+to+new+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B967FF&center=true&vCenter=true&width=800&lines=Building+scalable+backend+services;Passionate+about+C-Sharp+and+ASP.NET+Core;Open+to+new+opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,13 +16,6 @@
 
 <p align="center">
   🎓 <b>Обучение:</b> Студент КубГТУ, ПИ &nbsp;&nbsp;•&nbsp;&nbsp; ⚡ <b>Возраст:</b> 20 лет &nbsp;&nbsp;•&nbsp;&nbsp; 📫 <b>Связь:</b> <a href="https://t.me/xJusT0">Telegram</a> или <a href="mailto:iliapozhidaev@gmail.com">Email</a>
-</p>
-
-<br/>
-
-<h3 align="center">🏆 Мои достижения</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xJusTo&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="Trophies" />
 </p>
 
 <br/>

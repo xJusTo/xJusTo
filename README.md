@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f2027,203a43,2c5364&height=250&section=header&text=Привет,%20я%20xJusTo!%20%F0%9F%91%8B&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20&%20Software%20Engineering%20Student&descAlignY=55&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2CA5E0&center=true&vCenter=true&width=850&lines=Building+scalable+backend+services;Passionate+about+C-Sharp+and+ASP.NET+Core;Open+to+new+opportunities" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header.svg">
+    <source media="(prefers-color-scheme: light)" srcset="header.svg">
+    <img src="header.svg" width="100%" alt="Header Banner" />
+  </picture>
 </p>
 
 <br/>

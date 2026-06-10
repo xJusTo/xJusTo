@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=250&section=header&text=Привет,%20я%20Ilia!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20xJusTo&descAlignY=55&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=250&section=header&text=Привет,%20я%20xJusTo!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20xJusTo&descAlignY=55&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🎓 <b>Обучение:</b> Студент КубГТУ, ПИ &nbsp;&nbsp;•&nbsp;&nbsp; ⚡ <b>Возраст:</b> 20 лет &nbsp;&nbsp;•&nbsp;&nbsp; 📫 <b>Связь:</b> <a href="https://t.me/xJusT0">Telegram</a> или <a href="mailto:iliapozhidaev@gmail.com">Email</a>
+  🎓 <b>Обучение:</b> Студент КубГТУ, ПР &nbsp;&nbsp;•&nbsp;&nbsp; ⚡ <b>Возраст:</b> 20 лет &nbsp;&nbsp;•&nbsp;&nbsp; 📫 <b>Связь:</b> <a href="https://t.me/xJusT0">Telegram</a> или <a href="mailto:iliapozhidaev@gmail.com">Email</a>
 </p>
 
 <br/>
